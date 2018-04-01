@@ -1,7 +1,6 @@
 Projet PSI 2016-17
 
 Nom : Agnel		Prénom : Adrien
-Nom : Fauquembergue	 Prénom : Gabriel
 
 Descriptif du projet :
 miniShell

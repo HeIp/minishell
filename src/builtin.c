@@ -2,8 +2,8 @@
 //                                                                                 //
 // Fichier builtin.c : fonction d execution des cmds builtin                       //
 //                                                                                 //
-// Auteurs : Agnel Adrien                                                          //
-//	       : Gabriel Fauquembergue                                                 //
+// Auteur : Agnel Adrien                                                          //
+//	                                                                               //
 //                                                                                 //
 //    Date : 28/05/2017                                                            //
 //                                                                                 //

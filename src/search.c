@@ -2,8 +2,8 @@
 //                                                                                 //
 // Fichier search.c : fonction de recherche des cmd                                //
 //                                                                                 //
-// Auteurs : Agnel Adrien                                                          //
-//	       : Gabriel Fauquembergue                                                 //
+// Auteur : Agnel Adrien                                                          //
+//	                                                                               //
 //                                                                                 //
 //    Date : 28/05/2017                                                            //
 //                                                                                 //

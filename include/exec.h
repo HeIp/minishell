@@ -3,8 +3,8 @@
 // Fichier structures.h : contient les librairies et les signatures de :           //
 // structures.c                                                                    //
 //                                                                                 //
-// Auteurs : Agnel Adrien                                                          //
-//	       : Gabriel Fauquembergue                                                 //
+// Auteur  : Agnel Adrien                                                          //
+//	                                                                               //
 //                                                                                 //
 //    Date : 28/05/2017                                                            //
 //                                                                                 //

@@ -2,8 +2,8 @@
 //                                                                                 //
 // Fichier parser.c : Contient le parser : redirections , arguments                //
 //                                                                                 //
-// Auteurs : Agnel Adrien                                                          //
-//	       : Gabriel Fauquembergue                                                 //
+// Auteur : Agnel Adrien                                                          //
+//	                                                                               //
 //                                                                                 //
 //    Date : 28/05/2017                                                            //
 //                                                                                 //

@@ -2,8 +2,8 @@
 //                                                                                 //
 // Fichier main.h : contient les librairies et les signatures des fcts de main.c   //
 //                                                                                 //
-// Auteurs : Agnel Adrien                                                          //
-//	       : Gabriel Fauquembergue                                                 //
+// Auteur : Agnel Adrien                                                          //
+//	                                                                               //
 //                                                                                 //
 //    Date : 28/05/2017                                                            //
 //                                                                                 //

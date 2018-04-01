@@ -2,8 +2,8 @@
 //                                                                                 //
 // Fichier main.c : contient la boucle general avec toutes les fcts du minishell   //
 //                                                                                 //
-// Auteurs : Agnel Adrien                                                          //
-//	       : Gabriel Fauquembergue                                                 //
+// Auteur : Agnel Adrien                                                          //
+//	                                                                               //
 //                                                                                 //
 //    Date : 28/05/2017                                                            //
 //                                                                                 //

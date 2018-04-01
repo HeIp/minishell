@@ -2,8 +2,8 @@
 //                                                                                 //
 // Fichier parser.h : contient les librairies et les signatures de parser.c        //
 //                                                                                 //
-// Auteurs : Agnel Adrien                                                          //
-//	       : Gabriel Fauquembergue                                                 //
+// Auteur : Agnel Adrien                                                          //
+//	                                                                               //
 //                                                                                 //
 //    Date : 28/05/2017                                                            //
 //                                                                                 //

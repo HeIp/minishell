@@ -3,8 +3,8 @@
 // Fichier outils.h : permet de reset et init structures et fermer les             //
 // descripteurs                                                                    //
 //                                                                                 //
-// Auteurs : Agnel Adrien                                                          //
-//	       : Gabriel Fauquembergue                                                 //
+// Auteur : Agnel Adrien                                                          //
+//	                                                                               //
 //                                                                                 //
 //    Date : 28/05/2017                                                            //
 //                                                                                 //
